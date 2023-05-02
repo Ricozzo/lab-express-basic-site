@@ -1,0 +1,43 @@
+@font-face {
+  src: url('fonts/GimletVariable-VF-Testing.woff2') format("woff2"),
+       url('fonts/GimletVariable-VF-Testing.woff') format("woff");
+  font-family: 'Gimlet Variable';
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+    background-color: #ffe5ed;
+}
+
+.marsha {
+    font-size: 100px;
+    width: 50vw;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 95px;
+    font-family: 'Gimlet Variable';
+}
+
+h2 {
+    text-align: center;
+    font-size: 45px;
+}
+
+.button {
+    font-size: 20px;
+    font-size: pading;
+    font-family: 'Gimlet Variable';
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    padding: 10px 10px; 
+    background-color:aliceblue;
+    margin-right: 75%;
+    color: black;
+    border-radius: 10px;
+}
